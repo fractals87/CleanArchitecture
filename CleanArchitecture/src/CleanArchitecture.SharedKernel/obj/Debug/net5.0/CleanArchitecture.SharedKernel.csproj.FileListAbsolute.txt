@@ -1,0 +1,12 @@
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.SharedKernel\bin\Debug\net5.0\CleanArchitecture.SharedKernel.deps.json
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.SharedKernel\bin\Debug\net5.0\CleanArchitecture.SharedKernel.dll
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.SharedKernel\bin\Debug\net5.0\ref\CleanArchitecture.SharedKernel.dll
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.SharedKernel\bin\Debug\net5.0\CleanArchitecture.SharedKernel.pdb
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.SharedKernel\obj\Debug\net5.0\CleanArchitecture.SharedKernel.csprojAssemblyReference.cache
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.SharedKernel\obj\Debug\net5.0\CleanArchitecture.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.SharedKernel\obj\Debug\net5.0\CleanArchitecture.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.SharedKernel\obj\Debug\net5.0\CleanArchitecture.SharedKernel.AssemblyInfo.cs
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.SharedKernel\obj\Debug\net5.0\CleanArchitecture.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.SharedKernel\obj\Debug\net5.0\CleanArchitecture.SharedKernel.dll
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.SharedKernel\obj\Debug\net5.0\ref\CleanArchitecture.SharedKernel.dll
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.SharedKernel\obj\Debug\net5.0\CleanArchitecture.SharedKernel.pdb

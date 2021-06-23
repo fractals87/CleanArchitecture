@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "J9jajaoMR1SB3DG0WqllIjgeRScJDHIEBU7gdFn0YgzL1ERmQvBAKD4LG0sihxu0iTEaOxDNwBFq+0YlyEpJkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\p.franzini\\_DATA\\MATERIALE_SVILUPPO\\_PersonalRepository\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\p.franzini\\.nuget\\packages\\ardalis.guardclauses\\3.1.0\\ardalis.guardclauses.3.1.0.nupkg.sha512",
+    "C:\\Users\\p.franzini\\.nuget\\packages\\ardalis.specification\\5.1.0\\ardalis.specification.5.1.0.nupkg.sha512",
+    "C:\\Users\\p.franzini\\.nuget\\packages\\jetbrains.annotations\\2019.1.3\\jetbrains.annotations.2019.1.3.nupkg.sha512",
+    "C:\\Users\\p.franzini\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

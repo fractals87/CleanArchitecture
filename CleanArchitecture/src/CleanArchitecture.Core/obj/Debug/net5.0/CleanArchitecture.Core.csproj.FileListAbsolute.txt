@@ -1,0 +1,15 @@
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Core\bin\Debug\net5.0\CleanArchitecture.Core.deps.json
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Core\bin\Debug\net5.0\CleanArchitecture.Core.dll
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Core\bin\Debug\net5.0\ref\CleanArchitecture.Core.dll
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Core\bin\Debug\net5.0\CleanArchitecture.Core.pdb
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Core\bin\Debug\net5.0\CleanArchitecture.SharedKernel.dll
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Core\bin\Debug\net5.0\CleanArchitecture.SharedKernel.pdb
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Core\obj\Debug\net5.0\CleanArchitecture.Core.csprojAssemblyReference.cache
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Core\obj\Debug\net5.0\CleanArchitecture.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Core\obj\Debug\net5.0\CleanArchitecture.Core.AssemblyInfoInputs.cache
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Core\obj\Debug\net5.0\CleanArchitecture.Core.AssemblyInfo.cs
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Core\obj\Debug\net5.0\CleanArchitecture.Core.csproj.CoreCompileInputs.cache
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Core\obj\Debug\net5.0\CleanArchitecture.Core.csproj.CopyComplete
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Core\obj\Debug\net5.0\CleanArchitecture.Core.dll
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Core\obj\Debug\net5.0\ref\CleanArchitecture.Core.dll
+C:\Users\p.franzini\_DATA\MATERIALE_SVILUPPO\_PersonalRepository\CleanArchitecture\CleanArchitecture\src\CleanArchitecture.Core\obj\Debug\net5.0\CleanArchitecture.Core.pdb

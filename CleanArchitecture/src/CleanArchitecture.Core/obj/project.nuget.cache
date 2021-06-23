@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "42zaWXZGRg7l9KegMfUq+Xq7TZkQuL5htmeuKYiUoZJvxWuoi9CUPR7jWAvXNI+hu/kIjiTVX6+Im0A9nPeZbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\p.franzini\\_DATA\\MATERIALE_SVILUPPO\\_PersonalRepository\\CleanArchitecture\\CleanArchitecture\\src\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\p.franzini\\.nuget\\packages\\ardalis.guardclauses\\3.2.0\\ardalis.guardclauses.3.2.0.nupkg.sha512",
+    "C:\\Users\\p.franzini\\.nuget\\packages\\ardalis.result\\3.1.1\\ardalis.result.3.1.1.nupkg.sha512",
+    "C:\\Users\\p.franzini\\.nuget\\packages\\ardalis.specification\\5.1.0\\ardalis.specification.5.1.0.nupkg.sha512",
+    "C:\\Users\\p.franzini\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\p.franzini\\.nuget\\packages\\jetbrains.annotations\\2021.1.0\\jetbrains.annotations.2021.1.0.nupkg.sha512",
+    "C:\\Users\\p.franzini\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\p.franzini\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
